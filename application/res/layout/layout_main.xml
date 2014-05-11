@@ -23,6 +23,7 @@
         android:layout_below="@+id/progressBar"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="26dp"
-        android:text="Start thread" />
+        android:text="Start thread"
+        android:onClick="startThread" />
 
 </RelativeLayout>
