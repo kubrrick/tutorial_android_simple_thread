@@ -1,2 +1,2 @@
-tutorial_android_simple-thread
+tutorial android simple thread
 ==============================
